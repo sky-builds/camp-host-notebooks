@@ -1,0 +1,13 @@
+name: camp-host-env
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - ipywidgets
+  - ipykernel
+  - python=3.10
+  - pandas
+  - notebook
+  - matplotlib
+  - openpyxl
+prefix: /Users/sky/mambaforge/envs/camp-host-env

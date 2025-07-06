@@ -1,2 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sky-builds/camp-host-notebooks/HEAD)
+
 # camp-host-notebooks
-Jupyter notebooks for camp host functions tied to pyFedCamp
+This repo is a companion to the pyFedCamp package. It contains notebooks that can be run interactively with Binder for performing certain functions of operating a campground site on a U.S. Federal property.
